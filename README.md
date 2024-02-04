@@ -7,7 +7,6 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
 
 # Features 🎉
 
-The whole [portfolio](https://sajid.vercel.app/) is a React-based single-page app built with Next.js in Typescript, using only statically generated pages.
 The whole [portfolio](https://sajid-personal-portfolio.vercel.app/) is a React-based single page app built with Next.js in Typescript, using only statically generated pages.
 
 # Fonts ✍🏻
