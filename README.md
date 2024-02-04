@@ -2,7 +2,7 @@
 
 [![Site preview](/public/site-preview.png)](https://sajid.vercel.app/)
 
-Welcome to my personal portfolio! This project showcases my skills, experience, projects, and education as a developer. Built with [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com). it not only provides a visually appealing representation of my work but also ensures optimal performance. View the [live site](https://sajid.vercel.app/).
+Welcome to my personal portfolio! This project showcases my skills, experience, projects, and education as a developer. Built with [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com). it not only provides a visually appealing representation of my work but also ensures optimal performance. View the [live site](https://sajid-personal-portfolio.vercel.app/).
 
 # Features 🎉
 
