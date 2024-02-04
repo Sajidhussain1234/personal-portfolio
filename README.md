@@ -2,11 +2,11 @@
 
 [![Site preview](/public/site-preview.png)](https://sajid.vercel.app/)
 
-Welcome to my personal portfolio! This project showcases my skills, experience, projects, and education as a developer. Built with [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com). it not only provides a visually appealing representation of my work but also ensures optimal performance. View the [live site](https://sajid-personal-portfolio.vercel.app/).
+Welcome to my portfolio! This project showcases my skills, experience, projects, and education as a developer. Built with [Next.js](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com). it not only provides a visually appealing representation of my work but also ensures optimal performance. View the [live site](https://sajid-personal-portfolio.vercel.app/).
 
 # Features 🎉
 
-The whole [portfolio](https://sajid.vercel.app/) is a React-based single page app built with Next.js in Typescript, using only statically generated pages.
+The whole [portfolio](https://sajid.vercel.app/) is a React-based single-page app built with Next.js in Typescript, using only statically generated pages.
 
 # Fonts ✍🏻
 
@@ -33,7 +33,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 # 🚚 Deployment
 
-Every branch or Pull Request is automatically deployed by [Vercel](https://vercel.com/) with their GitHub integration, where the `main` branch is automatically aliased to [sajidhussain.com](https://sajid.vercel.app/). A link to a preview deployment will appear under each Pull Request.
+Every branch or Pull Request is automatically deployed by [Vercel](https://vercel.com/) with their GitHub integration, where the `main` branch is automatically aliased to [sajidhussain.com](https://sajid-personal-portfolio.vercel.app/). A link to a preview deployment will appear under each Pull Request.
 
 # 🏛 Licenses
 
