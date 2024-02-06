@@ -19,58 +19,53 @@ const Navbar = () => {
             className="cursor-pointer hover:animate-slowspin"
           />
         </a>
-
         <div className="flex flex-row gap-1">
-          <div          
-            // onClick={() => window.open("mailto:dev.sajidhussain7@gmail.com")}
+          <a
+            href="#banner"
             className=" z-[1] bg-transparent  padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl  text-white  py-2 px-5"
           >
             Home
-          </div>
-          <div
-            // onClick={() => window.open("mailto:dev.sajidhussain7@gmail.com")}
+          </a>
+          <a
+            href="#about"
             className=" z-[1] bg-transparent  padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl  text-white  py-2 px-5"
           >
             About
-          </div>
-          <div
-            // onClick={() => window.open("mailto:dev.sajidhussain7@gmail.com")}
-            className=" z-[1] bg-transparent  padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl  text-white  py-2 px-5"
+          </a>
+          <a
+            href="#experience"
+            className="z-[1] bg-transparent padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl text-white py-2 px-5"
           >
             Experience
-          </div>
-          <div
-            // onClick={() => window.open("mailto:dev.sajidhussain7@gmail.com")}
+          </a>
+          <a
+            href="#project"
             className=" z-[1] bg-transparent  padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl  text-white  py-2 px-5"
           >
             Projects
-          </div>
-          <div
-            // onClick={() => window.open("mailto:dev.sajidhussain7@gmail.com")}
+          </a>
+          <a
+            href="#education"
             className=" z-[1] bg-transparent  padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl  text-white  py-2 px-5"
           >
             Education
-          </div>
-        
+          </a>
           <a
-          href="https://drive.google.com/file/d/1eZw4fFgWLQ8-yWdEjynJc_OO3iqMWGAM/view?usp=drive_link"
-          type= "link"
-          target="_blank"
-          className="h-auto w-auto flex flex-row items-center"
-        >
-         <div
-            // onClick={() => window.open("mailto:dev.sajidhussain7@gmail.com")}
-            className=" z-[1] bg-transparent  padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl  text-white  py-2 px-5"
+            href="https://drive.google.com/file/d/1eZw4fFgWLQ8-yWdEjynJc_OO3iqMWGAM/view?usp=drive_link"
+            type="link"
+            target="_blank"
+            className="h-auto w-auto flex flex-row items-center"
           >
-             Resume     
-          </div>
-        </a>
-          <div
-            onClick={() => window.open("mailto:dev.sajidhussain7@gmail.com")}
+            <div className=" z-[1] bg-transparent  padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl  text-white  py-2 px-5">
+              Resume
+            </div>
+          </a>
+          <a
+            href="#contact"
             className=" z-[1] bg-transparent  padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl  text-white  py-2 px-5"
           >
             Contact
-          </div>
+          </a>
         </div>
       </div>
     </div>

@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const HeroContent = () => {
   return (
-    <div className="relative flex flex-col h-full w-full" id="about-me">
+    <div id="about-me" className="relative flex flex-col h-full w-full">
       {/* <video
         autoPlay
         muted
