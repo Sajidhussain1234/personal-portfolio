@@ -1,3 +1,5 @@
+"use client";
+
 import { Social_Icons } from "@/constant";
 import Image from "next/image";
 import Link from "next/link";
@@ -5,8 +7,11 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div className=" container mx-auto 2xl pt-[50px] pb-8 ">
-      <div className="pb-10 justify-center flex ">
+    <section
+      id="contact"
+      className=" container mx-auto 2xl pt-[50px] pb-8 mt-[78px] "
+    >
+      <div className="pb-10 flex justify-center ">
         {Social_Icons.map((social) => {
           return (
             <Link
@@ -30,7 +35,7 @@ const Footer = () => {
       <p className="text-gray-300 text-center text-sm">
         Created with ❤️ using Next.js
       </p>
-    </div>
+    </section>
   );
 };
 
