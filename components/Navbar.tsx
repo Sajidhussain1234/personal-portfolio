@@ -47,7 +47,7 @@ const Navbar = () => {
           >
             Education
           </a>
-          <a
+          {/* <a
             href="https://drive.google.com/file/d/1eZw4fFgWLQ8-yWdEjynJc_OO3iqMWGAM/view?usp=drive_link"
             type="link"
             target="_blank"
@@ -56,7 +56,7 @@ const Navbar = () => {
             <div className=" z-[1] bg-transparent  padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl  text-white  py-2 px-5">
               Resume
             </div>
-          </a>
+          </a> */}
           <a
             href="#contact"
             className=" z-[1] bg-transparent  padding-10 cursor-pointer bg-black hover:bg-[#2E2E2E] rounded-xl  text-white  py-2 px-5"
