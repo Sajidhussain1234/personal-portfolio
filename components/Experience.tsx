@@ -34,7 +34,7 @@ const Experience = () => {
           optimizing application responsiveness, I am committed to delivering
           high-quality solutions.
         </p>
-        <div className="flex-col flex sm:flex-row ">
+        <div className="flex flex-col  flex-wrap  sm:flex-row ">
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             JavaScript
           </div>
@@ -76,7 +76,7 @@ const Experience = () => {
           design with Material UI and with React JS dynamic functionalities. And
           also on backend with Node js and experience using Mongodb.
         </p>
-        <div className="flex-col flex sm:flex-row ">
+        <div className="flex flex-col  flex-wrap  sm:flex-row ">
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             JavaScript
           </div>
