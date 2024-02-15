@@ -87,7 +87,7 @@ const Education = () => {
           <p className="text-gray-300 ml-2 ">
             <span className="font-semibold">B.Sc </span>{" "}
           </p>
-          <p className="text-gray-300">
+          <p className="text-gray-300  ml-2">
             {" "}
             Islamia University Bahawalpur, 2013-2016
           </p>
