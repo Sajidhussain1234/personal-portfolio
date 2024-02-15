@@ -15,9 +15,9 @@ const Education = () => {
       <div className=" container mx-auto 2xl ">
         <div className="flex  flex-row justify-between pt-5">
           <p className="text-gray-300 ">
-            <span className="font-semibold">MSCS </span> developer
+            <span className="font-semibold">MSCS </span>
           </p>
-          <p className="text-gray-300">
+          <p className="text-gray-300 ml-2">
             RIPHAH INTERNATIONAL UNIVERSITY LAHORE, 2020-2022
           </p>
         </div>
@@ -46,11 +46,10 @@ const Education = () => {
       <div className=" container mx-auto 2xl ">
         <div className="flex  flex-row justify-between pt-5">
           <p className="text-gray-300 ">
-            <span className="font-semibold">MCS </span>
+            <span className="font-semibold">MCS </span>{" "}
           </p>
-          <p className="text-gray-300">
-            {" "}
-            Islamia University Bahawalpur, 2017 - 2019
+          <p className="text-gray-300 ml-2">
+            Islamia University Bahawalpur, 2017-2019
           </p>
         </div>
         <p className="text-gray-300 pt-5">
@@ -85,12 +84,12 @@ const Education = () => {
       {/* Education B.Sc */}
       <div className=" container mx-auto 2xl ">
         <div className="flex  flex-row justify-between pt-5">
-          <p className="text-gray-300 ">
-            <span className="font-semibold">B.Sc </span>
+          <p className="text-gray-300 ml-2 ">
+            <span className="font-semibold">B.Sc </span>{" "}
           </p>
           <p className="text-gray-300">
             {" "}
-            Islamia University Bahawalpur, 2013 - 2016
+            Islamia University Bahawalpur, 2013-2016
           </p>
         </div>
         <p className="text-gray-300 pt-5">
@@ -128,7 +127,7 @@ const Education = () => {
           <p className="text-gray-300 ">
             <span className="font-semibold">ICS </span> 
           </p>
-          <p className="text-gray-300"> Govt. College Burewala, 2012 - 2014</p>
+          <p className="text-gray-300 ml-2"> Govt. College Burewala, 2012 - 2014</p>
         </div>
         <p className="text-gray-300 pt-5">
         I did Intermediate in Computer Science from Govt. College Burewala.

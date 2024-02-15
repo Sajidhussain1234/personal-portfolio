@@ -19,7 +19,7 @@ const Experience = () => {
           <p className="text-gray-300 ">
             <span className="font-semibold">React JS </span> developer
           </p>
-          <p className="text-gray-300">
+          <p className="text-gray-300 ml-2">
             {" "}
             LEADconcept Solution, AUG 2023 - PRESENT
           </p>
@@ -66,7 +66,7 @@ const Experience = () => {
           <p className="text-gray-300 ">
             <span className="font-semibold">MERN Stack </span> developer
           </p>
-          <p className="text-gray-300">
+          <p className="text-gray-300 ml-2">
             {" "}
             NexusBerry Solutions, JAN 2023 - JUL 2023
           </p>
