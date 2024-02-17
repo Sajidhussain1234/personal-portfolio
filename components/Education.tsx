@@ -57,9 +57,6 @@ const Education = () => {
           (Bahawalnagar Campus).
         </p>
         <div className="flex flex-col  flex-wrap sm:flex-row ">
-          <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            C
-          </div>
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             C++
           </div>
@@ -70,13 +67,13 @@ const Education = () => {
             C#
           </div>
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            python
-          </div>
-          <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            Distributive Database
+            Python
           </div>
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             Advance Web Development
+          </div>
+          <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
+            Distributive Database
           </div>
         </div>
         <hr className="m-4"></hr>
@@ -89,7 +86,7 @@ const Education = () => {
           </p>
           <p className="text-gray-300  ml-2">
             {" "}
-            Islamia University Bahawalpur, 2013-2016
+            Islamia University Bahawalpur, 2014-2016
           </p>
         </div>
         <p className="text-gray-300 pt-5">
@@ -97,26 +94,17 @@ const Education = () => {
           College Chishtian).
         </p>
         <div className=" flex flex-col  flex-wrap  sm:flex-row ">
-          <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            C
-          </div>
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             C++
           </div>
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            Java
+            Information Technology
           </div>
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            C#
+            Web Development
           </div>
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            python
-          </div>
-          <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            Distributive Database
-          </div>
-          <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            Advance Web Development
+            Database Management
           </div>
           <hr className="m-4"></hr>
         </div>
