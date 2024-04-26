@@ -18,7 +18,7 @@ const About = () => {
           I am a certified MERN Stack developer with training from Nexusberry
           Training and Solutions, including a 6-month intensive program and a
           3-month internship. I currently work as a ReactJS developer at
-          LEADconcept Solutions, accumulating 6 months of professional
+          LEADconcept Solutions, accumulating 1.5 years of professional
           experience.
           <br />
           <br />
